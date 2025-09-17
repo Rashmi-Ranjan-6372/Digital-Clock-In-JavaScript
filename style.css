@@ -1,0 +1,20 @@
+body {
+    background-color: #111010;
+    color: #fff;
+  }
+  .center {
+    font-size:30px;
+    display: flex;
+    text-shadow: #aa1818;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #clock {
+    font-size: 40px;
+    background-color: blueviolet;
+    padding: 20px 50px;
+    margin-top: 10px;
+    border-radius: 8px;
+  }
